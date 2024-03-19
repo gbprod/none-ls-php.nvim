@@ -19,7 +19,7 @@ This should be used as a dependency of **none-ls.nvim**.
   {
     "nvimtools/none-ls.nvim",
     dependencies = {
-        "gbprod/none-ls-luacheck.nvim",
+        "gbprod/none-ls-php.nvim",
     },
   },
 }
